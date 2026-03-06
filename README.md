@@ -11,7 +11,7 @@ The Cost of Moving Calculator is a free, interactive tool that compares your tot
 
 ## Demo
 
-
+[![Demo](https://img.youtube.com/vi/TE09EWGlNTI/0.jpg)](https://youtu.be/TE09EWGlNTI)
 
 ## Why Use This Calculator?
 
